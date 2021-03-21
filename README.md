@@ -1,3 +1,3 @@
-## React Template starter kit
+## React Typescript Template starter kit
 
 Simple template for react apps with jest and eslint
